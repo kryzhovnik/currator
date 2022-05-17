@@ -1,0 +1,2 @@
+require './currator'
+run Currator

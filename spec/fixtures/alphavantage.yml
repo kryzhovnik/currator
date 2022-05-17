@@ -1,0 +1,3 @@
+"usd/rub-success":
+  url: "https://www.alphavantage.co/query?apikey&from_currency=usd&function=CURRENCY_EXCHANGE_RATE&to_currency=rub"
+  body: "{\n    \"Realtime Currency Exchange Rate\": {\n        \"1. From_Currency Code\": \"USD\",\n        \"2. From_Currency Name\": \"United States Dollar\",\n        \"3. To_Currency Code\": \"RUB\",\n        \"4. To_Currency Name\": \"Russian Ruble\",\n        \"5. Exchange Rate\": \"64.25000000\",\n        \"6. Last Refreshed\": \"2022-05-17 10:07:44\",\n        \"7. Time Zone\": \"UTC\",\n        \"8. Bid Price\": \"64.25000000\",\n        \"9. Ask Price\": \"64.25000000\"\n    }\n}"

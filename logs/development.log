@@ -1,0 +1,37 @@
+# Logfile created on 2022-05-16 16:36:32 +0200 by logger.rb/v1.4.3
+E, [2022-05-16T16:36:56.776473 #81255] ERROR -- : {"Note"=>"Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."}
+I, [2022-05-16T18:16:43.907161 #82548]  INFO -- : 
+
+
+{"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF", "from_currency"=>nil, "to_currency"=>nil}
+I, [2022-05-16T18:26:17.745163 #82676]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF", "from_currency"=>"usd", "to_currency"=>"rub"}
+I, [2022-05-16T18:26:28.414410 #82676]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF", "from_currency"=>"usd", "to_currency"=>"rub"}
+I, [2022-05-16T18:51:46.958525 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:51:51.195154 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:51:52.901622 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:51:54.476423 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:51:55.796503 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:51:57.388585 #83005]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:52:04.474889 #83041]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>nil}
+I, [2022-05-16T18:52:08.430835 #83041]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>nil}
+I, [2022-05-16T18:59:11.063600 #83188]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>nil}
+I, [2022-05-16T18:59:15.991695 #83188]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>nil}
+I, [2022-05-16T18:59:38.364808 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:59:43.330301 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:59:46.359244 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:59:47.943682 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:59:49.795958 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T18:59:51.326515 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:00:05.703830 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:00:09.020497 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:01:12.104259 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:01:18.672492 #83214]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:09:45.779590 #83384]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:09:49.921855 #83384]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:09:53.109546 #83384]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:14:45.252869 #83384]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:15:03.604819 #83485]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:15:10.429976 #83485]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:15:18.833920 #83485]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-16T19:15:28.126641 #83485]  INFO -- : {"function"=>"CURRENCY_EXCHANGE_RATE", "apikey"=>"YE0YCXBTO1ZPOONF"}
+I, [2022-05-17T12:07:53.290821 #87392]  INFO -- : "{\n    \"Realtime Currency Exchange Rate\": {\n        \"1. From_Currency Code\": \"USD\",\n        \"2. From_Currency Name\": \"United States Dollar\",\n        \"3. To_Currency Code\": \"RUB\",\n        \"4. To_Currency Name\": \"Russian Ruble\",\n        \"5. Exchange Rate\": \"64.25000000\",\n        \"6. Last Refreshed\": \"2022-05-17 10:07:44\",\n        \"7. Time Zone\": \"UTC\",\n        \"8. Bid Price\": \"64.25000000\",\n        \"9. Ask Price\": \"64.25000000\"\n    }\n}"
